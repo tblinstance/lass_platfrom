@@ -1,0 +1,38 @@
+Watching for file changes with StatReloader
+[28/Jul/2026 00:28:50] "OPTIONS /api/auth/google/ HTTP/1.1" 200 0
+[28/Jul/2026 00:28:51] "POST /api/auth/google/ HTTP/1.1" 200 489
+[28/Jul/2026 00:28:51] "OPTIONS /api/auth/users/me/ HTTP/1.1" 200 0
+[28/Jul/2026 00:28:51] "GET /api/auth/users/me/ HTTP/1.1" 200 275
+[28/Jul/2026 00:28:51] "GET /api/auth/users/me/ HTTP/1.1" 200 275
+[28/Jul/2026 00:28:51] "GET /api/auth/users/me/ HTTP/1.1" 200 275
+[28/Jul/2026 00:28:51] "GET /api/auth/users/me/ HTTP/1.1" 200 275
+[28/Jul/2026 00:28:51] "OPTIONS /api/instances/?project=member-tblinstance HTTP/1.1" 200 0
+[28/Jul/2026 00:28:51] "OPTIONS /api/member-dashboard/ HTTP/1.1" 200 0
+[28/Jul/2026 00:28:51] "OPTIONS /api/dns-rules/?project=member-tblinstance HTTP/1.1" 200 0
+[28/Jul/2026 00:28:51] "OPTIONS /api/instances/?project=member-tblinstance HTTP/1.1" 200 0
+[28/Jul/2026 00:28:51] "OPTIONS /api/member-dashboard/ HTTP/1.1" 200 0
+[28/Jul/2026 00:28:51] "OPTIONS /api/dns-rules/?project=member-tblinstance HTTP/1.1" 200 0
+[28/Jul/2026 00:28:51] "GET /api/dns-rules/?project=member-tblinstance HTTP/1.1" 200 2
+[28/Jul/2026 00:28:52] "GET /api/instances/?project=member-tblinstance HTTP/1.1" 200 2
+[28/Jul/2026 00:28:52] "GET /api/member-dashboard/ HTTP/1.1" 200 249
+[28/Jul/2026 00:28:52] "GET /api/dns-rules/?project=member-tblinstance HTTP/1.1" 200 2
+[28/Jul/2026 00:28:52] "GET /api/instances/?project=member-tblinstance HTTP/1.1" 200 2
+[28/Jul/2026 00:28:52] "GET /api/member-dashboard/ HTTP/1.1" 200 249
+[28/Jul/2026 00:29:00] "OPTIONS /api/images/ HTTP/1.1" 200 0
+[28/Jul/2026 00:29:00] "OPTIONS /api/images/ HTTP/1.1" 200 0
+[28/Jul/2026 00:29:00] "GET /api/images/ HTTP/1.1" 200 1213
+[28/Jul/2026 00:29:00] "GET /api/images/ HTTP/1.1" 200 1213
+[28/Jul/2026 00:29:01] "OPTIONS /api/storage-pools/ HTTP/1.1" 200 0
+[28/Jul/2026 00:29:01] "OPTIONS /api/storage-pools/ HTTP/1.1" 200 0
+Forbidden: /api/storage-pools/
+[28/Jul/2026 00:29:01] "GET /api/storage-pools/ HTTP/1.1" 403 63
+Forbidden: /api/storage-pools/
+[28/Jul/2026 00:29:01] "GET /api/storage-pools/ HTTP/1.1" 403 63
+[28/Jul/2026 00:29:02] "OPTIONS /api/networks/?project=member-tblinstance HTTP/1.1" 200 0
+[28/Jul/2026 00:29:02] "OPTIONS /api/networks/?project=member-tblinstance HTTP/1.1" 200 0
+[28/Jul/2026 00:29:02] "GET /api/networks/?project=member-tblinstance HTTP/1.1" 200 2
+[28/Jul/2026 00:29:02] "GET /api/networks/?project=member-tblinstance HTTP/1.1" 200 2
+[28/Jul/2026 00:29:07] "GET /api/images/ HTTP/1.1" 200 1213
+[28/Jul/2026 00:29:07] "GET /api/networks/?project=member-tblinstance HTTP/1.1" 200 2
+[28/Jul/2026 00:29:07] "GET /api/images/ HTTP/1.1" 200 1213
+[28/Jul/2026 00:29:07] "GET /api/networks/?project=member-tblinstance HTTP/1.1" 200 2
